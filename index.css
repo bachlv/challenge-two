@@ -1,0 +1,10 @@
+* {
+  font-family: sans-serif;
+}
+
+@keyframes circle {
+}
+
+.target {
+  background-color: red !important;
+}
